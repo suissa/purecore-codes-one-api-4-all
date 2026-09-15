@@ -1,6 +1,7 @@
 <div align="center" style="background-color: #000">
 
-<img src="https://i.imgur.com/dLJkRYi.png" style="display:block; margin: 0 auto; margint-top: 20px">
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a2b77cc3-929b-477b-9a5d-72987d248191" />
+
 
 <div align="left">
 <h2 style="color: rgb(0, 213, 255); font-size: 48px; text-align: center; font-weight: bold;">Visão geral</h2>
